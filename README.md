@@ -18,8 +18,6 @@ Iterate over gradient ascents on smaller step size and doesn’t consider constr
 [3] : Maximal Jacobian-based Saliency Map Attack, Xu and Wiyatno, 2018
 [4] : Universal adversarial perturbations, Moosavi-Dezfooli et al., 2017
 
-<img width="363" alt="image" src="https://github.com/geetHonve/adversarial-robustness/assets/123307246/fd1f09c5-949f-43de-ad3b-c1989bcc4d20">
-.
 
 <img width="392" alt="image" src="https://github.com/geetHonve/adversarial-robustness/assets/123307246/32afc5b6-ebf0-4095-ae3b-19b0b10e4ff5">
 
