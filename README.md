@@ -19,6 +19,7 @@ Iterate over gradient ascents on smaller step size and doesn’t consider constr
 [4] : Universal adversarial perturbations, Moosavi-Dezfooli et al., 2017
 
 <img width="363" alt="image" src="https://github.com/geetHonve/adversarial-robustness/assets/123307246/fd1f09c5-949f-43de-ad3b-c1989bcc4d20">
+.
 
 <img width="392" alt="image" src="https://github.com/geetHonve/adversarial-robustness/assets/123307246/32afc5b6-ebf0-4095-ae3b-19b0b10e4ff5">
 
@@ -33,12 +34,12 @@ Epsilon (ε):
 
 So, the task of this exploratory project is to find the right degree of perturbation (epsilon) to apply to the original image x so that its activation value becomes R times original activation.
 
-Original image - x
-Unit we are focussing on - unit
-Original image activation - x_act
-Adversarial image activation - adv_x_act
-Target ratio to reduce orig activation by - target_ratio
-Target activation - target_act = target_ratio * x_act
-Goal is : find epsilon where adv_x_act == target_act
+* Original image - x
+* Unit we are focussing on - unit
+* Original image activation - x_act
+* Adversarial image activation - adv_x_act
+* Target ratio to reduce orig activation by - target_ratio
+* Target activation - target_act = target_ratio * x_act
+* Goal is : find epsilon where adv_x_act == target_act
 
 
