@@ -35,6 +35,9 @@ So, the task of this exploratory project is to find the right degree of perturba
 * Original image - x
 * Unit we are focussing on - unit
 * Original image activation - x_act
+
+* ![image](https://github.com/user-attachments/assets/a608f97d-13ff-4799-b3f4-920af7b07d1f)
+
 * Adversarial image activation - adv_x_act
 * Target ratio to reduce orig activation by - target_ratio
 * Target activation - target_act = target_ratio * x_act
